@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+node_modules/ 
+frontend/node_modules/ 
+=======
+target/ 
+*.log 
+.idea/ 
+*.class 
+>>>>>>> 128260f (spring boot backend project)
